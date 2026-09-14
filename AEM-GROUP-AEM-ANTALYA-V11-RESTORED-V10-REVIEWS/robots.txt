@@ -4,4 +4,3 @@ Disallow: /admin/
 Disallow: /private/
 
 Sitemap: https://aem-antalya.com/sitemap.xml
-Host: https://aem-antalya.com/

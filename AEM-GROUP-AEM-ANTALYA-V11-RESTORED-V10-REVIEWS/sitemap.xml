@@ -1,57 +1,75 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-<url><loc>https://aem-antalya.com/</loc><lastmod>2026-09-14</lastmod></url>
-<url><loc>https://aem-antalya.com/ar/</loc><lastmod>2026-09-14</lastmod></url>
-<url><loc>https://aem-antalya.com/ar/hizmetler/bulasik-makinesi-tamiri/</loc><lastmod>2026-09-14</lastmod></url>
-<url><loc>https://aem-antalya.com/ar/hizmetler/buzdolabi-tamiri/</loc><lastmod>2026-09-14</lastmod></url>
-<url><loc>https://aem-antalya.com/ar/hizmetler/camasir-makinesi-tamiri/</loc><lastmod>2026-09-14</lastmod></url>
-<url><loc>https://aem-antalya.com/ar/hizmetler/klima-gaz-dolumu/</loc><lastmod>2026-09-14</lastmod></url>
-<url><loc>https://aem-antalya.com/ar/hizmetler/klima-montaji/</loc><lastmod>2026-09-14</lastmod></url>
-<url><loc>https://aem-antalya.com/ar/hizmetler/klima-sokumu/</loc><lastmod>2026-09-14</lastmod></url>
-<url><loc>https://aem-antalya.com/ar/hizmetler/klima-tamiri/</loc><lastmod>2026-09-14</lastmod></url>
-<url><loc>https://aem-antalya.com/ar/hizmetler/kombi-tamiri/</loc><lastmod>2026-09-14</lastmod></url>
-<url><loc>https://aem-antalya.com/en/</loc><lastmod>2026-09-14</lastmod></url>
-<url><loc>https://aem-antalya.com/en/hizmetler/bulasik-makinesi-tamiri/</loc><lastmod>2026-09-14</lastmod></url>
-<url><loc>https://aem-antalya.com/en/hizmetler/buzdolabi-tamiri/</loc><lastmod>2026-09-14</lastmod></url>
-<url><loc>https://aem-antalya.com/en/hizmetler/camasir-makinesi-tamiri/</loc><lastmod>2026-09-14</lastmod></url>
-<url><loc>https://aem-antalya.com/en/hizmetler/klima-gaz-dolumu/</loc><lastmod>2026-09-14</lastmod></url>
-<url><loc>https://aem-antalya.com/en/hizmetler/klima-montaji/</loc><lastmod>2026-09-14</lastmod></url>
-<url><loc>https://aem-antalya.com/en/hizmetler/klima-sokumu/</loc><lastmod>2026-09-14</lastmod></url>
-<url><loc>https://aem-antalya.com/en/hizmetler/klima-tamiri/</loc><lastmod>2026-09-14</lastmod></url>
-<url><loc>https://aem-antalya.com/en/hizmetler/kombi-tamiri/</loc><lastmod>2026-09-14</lastmod></url>
-<url><loc>https://aem-antalya.com/hizmetler/bulasik-makinesi-tamiri/</loc><lastmod>2026-09-14</lastmod></url>
-<url><loc>https://aem-antalya.com/hizmetler/buzdolabi-tamiri/</loc><lastmod>2026-09-14</lastmod></url>
-<url><loc>https://aem-antalya.com/hizmetler/camasir-makinesi-tamiri/</loc><lastmod>2026-09-14</lastmod></url>
-<url><loc>https://aem-antalya.com/hizmetler/klima-gaz-dolumu/</loc><lastmod>2026-09-14</lastmod></url>
-<url><loc>https://aem-antalya.com/hizmetler/klima-montaji/</loc><lastmod>2026-09-14</lastmod></url>
-<url><loc>https://aem-antalya.com/hizmetler/klima-sokumu/</loc><lastmod>2026-09-14</lastmod></url>
-<url><loc>https://aem-antalya.com/hizmetler/klima-tamiri/</loc><lastmod>2026-09-14</lastmod></url>
-<url><loc>https://aem-antalya.com/hizmetler/kombi-tamiri/</loc><lastmod>2026-09-14</lastmod></url>
-<url><loc>https://aem-antalya.com/rehber/</loc><lastmod>2026-09-14</lastmod></url>
-<url><loc>https://aem-antalya.com/rehber/antalya-klima-servisi/</loc><lastmod>2026-09-14</lastmod></url>
-<url><loc>https://aem-antalya.com/rehber/beyaz-esya-servisi/</loc><lastmod>2026-09-14</lastmod></url>
-<url><loc>https://aem-antalya.com/rehber/klima-bakimi/</loc><lastmod>2026-09-14</lastmod></url>
-<url><loc>https://aem-antalya.com/rehber/klima-gaz-dolumu/</loc><lastmod>2026-09-14</lastmod></url>
-<url><loc>https://aem-antalya.com/ru/</loc><lastmod>2026-09-14</lastmod></url>
-<url><loc>https://aem-antalya.com/ru/hizmetler/bulasik-makinesi-tamiri/</loc><lastmod>2026-09-14</lastmod></url>
-<url><loc>https://aem-antalya.com/ru/hizmetler/buzdolabi-tamiri/</loc><lastmod>2026-09-14</lastmod></url>
-<url><loc>https://aem-antalya.com/ru/hizmetler/camasir-makinesi-tamiri/</loc><lastmod>2026-09-14</lastmod></url>
-<url><loc>https://aem-antalya.com/ru/hizmetler/klima-gaz-dolumu/</loc><lastmod>2026-09-14</lastmod></url>
-<url><loc>https://aem-antalya.com/ru/hizmetler/klima-montaji/</loc><lastmod>2026-09-14</lastmod></url>
-<url><loc>https://aem-antalya.com/ru/hizmetler/klima-sokumu/</loc><lastmod>2026-09-14</lastmod></url>
-<url><loc>https://aem-antalya.com/ru/hizmetler/klima-tamiri/</loc><lastmod>2026-09-14</lastmod></url>
-<url><loc>https://aem-antalya.com/ru/hizmetler/kombi-tamiri/</loc><lastmod>2026-09-14</lastmod></url>
-
-<url><loc>https://aem-antalya.com/hakkimizda/</loc><lastmod>2026-09-14</lastmod></url>
-<url><loc>https://aem-antalya.com/iletisim/</loc><lastmod>2026-09-14</lastmod></url>
-<url><loc>https://aem-antalya.com/sss/</loc><lastmod>2026-09-14</lastmod></url>
-<url><loc>https://aem-antalya.com/en/hakkimizda/</loc><lastmod>2026-09-14</lastmod></url>
-<url><loc>https://aem-antalya.com/en/iletisim/</loc><lastmod>2026-09-14</lastmod></url>
-<url><loc>https://aem-antalya.com/en/sss/</loc><lastmod>2026-09-14</lastmod></url>
-<url><loc>https://aem-antalya.com/ru/hakkimizda/</loc><lastmod>2026-09-14</lastmod></url>
-<url><loc>https://aem-antalya.com/ru/iletisim/</loc><lastmod>2026-09-14</lastmod></url>
-<url><loc>https://aem-antalya.com/ru/sss/</loc><lastmod>2026-09-14</lastmod></url>
-<url><loc>https://aem-antalya.com/ar/hakkimizda/</loc><lastmod>2026-09-14</lastmod></url>
-<url><loc>https://aem-antalya.com/ar/iletisim/</loc><lastmod>2026-09-14</lastmod></url>
-<url><loc>https://aem-antalya.com/ar/sss/</loc><lastmod>2026-09-14</lastmod></url>
+  <url><loc>https://aem-antalya.com/</loc></url>
+  <url><loc>https://aem-antalya.com/ar/</loc></url>
+  <url><loc>https://aem-antalya.com/ar/hakkimizda/</loc></url>
+  <url><loc>https://aem-antalya.com/ar/hizmetler/</loc></url>
+  <url><loc>https://aem-antalya.com/ar/hizmetler/bulasik-makinesi-tamiri/</loc></url>
+  <url><loc>https://aem-antalya.com/ar/hizmetler/buzdolabi-tamiri/</loc></url>
+  <url><loc>https://aem-antalya.com/ar/hizmetler/camasir-makinesi-tamiri/</loc></url>
+  <url><loc>https://aem-antalya.com/ar/hizmetler/klima-gaz-dolumu/</loc></url>
+  <url><loc>https://aem-antalya.com/ar/hizmetler/klima-montaji/</loc></url>
+  <url><loc>https://aem-antalya.com/ar/hizmetler/klima-sokumu/</loc></url>
+  <url><loc>https://aem-antalya.com/ar/hizmetler/klima-tamiri/</loc></url>
+  <url><loc>https://aem-antalya.com/ar/hizmetler/kombi-tamiri/</loc></url>
+  <url><loc>https://aem-antalya.com/ar/iletisim/</loc></url>
+  <url><loc>https://aem-antalya.com/ar/rehber/</loc></url>
+  <url><loc>https://aem-antalya.com/ar/rehber/antalya-klima-servisi/</loc></url>
+  <url><loc>https://aem-antalya.com/ar/rehber/beyaz-esya-servisi/</loc></url>
+  <url><loc>https://aem-antalya.com/ar/rehber/klima-bakimi/</loc></url>
+  <url><loc>https://aem-antalya.com/ar/rehber/klima-gaz-dolumu/</loc></url>
+  <url><loc>https://aem-antalya.com/ar/sss/</loc></url>
+  <url><loc>https://aem-antalya.com/en/</loc></url>
+  <url><loc>https://aem-antalya.com/en/hakkimizda/</loc></url>
+  <url><loc>https://aem-antalya.com/en/hizmetler/</loc></url>
+  <url><loc>https://aem-antalya.com/en/hizmetler/bulasik-makinesi-tamiri/</loc></url>
+  <url><loc>https://aem-antalya.com/en/hizmetler/buzdolabi-tamiri/</loc></url>
+  <url><loc>https://aem-antalya.com/en/hizmetler/camasir-makinesi-tamiri/</loc></url>
+  <url><loc>https://aem-antalya.com/en/hizmetler/klima-gaz-dolumu/</loc></url>
+  <url><loc>https://aem-antalya.com/en/hizmetler/klima-montaji/</loc></url>
+  <url><loc>https://aem-antalya.com/en/hizmetler/klima-sokumu/</loc></url>
+  <url><loc>https://aem-antalya.com/en/hizmetler/klima-tamiri/</loc></url>
+  <url><loc>https://aem-antalya.com/en/hizmetler/kombi-tamiri/</loc></url>
+  <url><loc>https://aem-antalya.com/en/iletisim/</loc></url>
+  <url><loc>https://aem-antalya.com/en/rehber/</loc></url>
+  <url><loc>https://aem-antalya.com/en/rehber/antalya-klima-servisi/</loc></url>
+  <url><loc>https://aem-antalya.com/en/rehber/beyaz-esya-servisi/</loc></url>
+  <url><loc>https://aem-antalya.com/en/rehber/klima-bakimi/</loc></url>
+  <url><loc>https://aem-antalya.com/en/rehber/klima-gaz-dolumu/</loc></url>
+  <url><loc>https://aem-antalya.com/en/sss/</loc></url>
+  <url><loc>https://aem-antalya.com/hakkimizda/</loc></url>
+  <url><loc>https://aem-antalya.com/hizmetler/</loc></url>
+  <url><loc>https://aem-antalya.com/hizmetler/bulasik-makinesi-tamiri/</loc></url>
+  <url><loc>https://aem-antalya.com/hizmetler/buzdolabi-tamiri/</loc></url>
+  <url><loc>https://aem-antalya.com/hizmetler/camasir-makinesi-tamiri/</loc></url>
+  <url><loc>https://aem-antalya.com/hizmetler/klima-gaz-dolumu/</loc></url>
+  <url><loc>https://aem-antalya.com/hizmetler/klima-montaji/</loc></url>
+  <url><loc>https://aem-antalya.com/hizmetler/klima-sokumu/</loc></url>
+  <url><loc>https://aem-antalya.com/hizmetler/klima-tamiri/</loc></url>
+  <url><loc>https://aem-antalya.com/hizmetler/kombi-tamiri/</loc></url>
+  <url><loc>https://aem-antalya.com/iletisim/</loc></url>
+  <url><loc>https://aem-antalya.com/rehber/</loc></url>
+  <url><loc>https://aem-antalya.com/rehber/antalya-klima-servisi/</loc></url>
+  <url><loc>https://aem-antalya.com/rehber/beyaz-esya-servisi/</loc></url>
+  <url><loc>https://aem-antalya.com/rehber/klima-bakimi/</loc></url>
+  <url><loc>https://aem-antalya.com/rehber/klima-gaz-dolumu/</loc></url>
+  <url><loc>https://aem-antalya.com/ru/</loc></url>
+  <url><loc>https://aem-antalya.com/ru/hakkimizda/</loc></url>
+  <url><loc>https://aem-antalya.com/ru/hizmetler/</loc></url>
+  <url><loc>https://aem-antalya.com/ru/hizmetler/bulasik-makinesi-tamiri/</loc></url>
+  <url><loc>https://aem-antalya.com/ru/hizmetler/buzdolabi-tamiri/</loc></url>
+  <url><loc>https://aem-antalya.com/ru/hizmetler/camasir-makinesi-tamiri/</loc></url>
+  <url><loc>https://aem-antalya.com/ru/hizmetler/klima-gaz-dolumu/</loc></url>
+  <url><loc>https://aem-antalya.com/ru/hizmetler/klima-montaji/</loc></url>
+  <url><loc>https://aem-antalya.com/ru/hizmetler/klima-sokumu/</loc></url>
+  <url><loc>https://aem-antalya.com/ru/hizmetler/klima-tamiri/</loc></url>
+  <url><loc>https://aem-antalya.com/ru/hizmetler/kombi-tamiri/</loc></url>
+  <url><loc>https://aem-antalya.com/ru/iletisim/</loc></url>
+  <url><loc>https://aem-antalya.com/ru/rehber/</loc></url>
+  <url><loc>https://aem-antalya.com/ru/rehber/antalya-klima-servisi/</loc></url>
+  <url><loc>https://aem-antalya.com/ru/rehber/beyaz-esya-servisi/</loc></url>
+  <url><loc>https://aem-antalya.com/ru/rehber/klima-bakimi/</loc></url>
+  <url><loc>https://aem-antalya.com/ru/rehber/klima-gaz-dolumu/</loc></url>
+  <url><loc>https://aem-antalya.com/ru/sss/</loc></url>
+  <url><loc>https://aem-antalya.com/sss/</loc></url>
 </urlset>
